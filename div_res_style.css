@@ -1,7 +1,7 @@
 body {
             font-family: Arial, sans-serif;
             margin: 40px;
-            color: #333;
+            color: #000000;
             background-color: #f9f9f9;
         }
 
@@ -12,7 +12,7 @@ body {
 
         .header h1 {
             margin: 0;
-            color: #2c3e50;
+            color: #000000;
         }
 
         .contact {
@@ -22,7 +22,7 @@ body {
 
         hr {
             border: 0;
-            border-top: 2px solid #2c3e50;
+            border-top: 2px solid #000000;
             margin: 10px 0 20px 0;
         }
 
@@ -34,7 +34,7 @@ body {
         .section-title {
             width: 25%;
             font-weight: bold;
-            color: #2c3e50;
+            color: #000000;
         }
 
         .section-content {
